@@ -1,0 +1,72 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Tofu Scramble",
+      "ingredients": [
+        "8 ounces firm tofu",
+        "1/4 tsp salt",
+        "1/4 tsp turmeric powder",
+        "1/8 tsp ground black pepper"
+      ],
+      "method": "1) Chop the tofu and use a fork to crumble it into bite-sized pieces.\n2) Add some oil to a frying pan and when it’s hot, add the tofu and all the remaining ingredients (salt, turmeric powder, and ground black pepper). 3) Stir until well combined and cook over medium-high heat for 5 to 10 minutes. Stir occasionally.\n 4) Serve your tofu scramble immediately (I served my tofu scramble over some toasted bread and topped it with fresh parsley) with fresh fruit, vegan bacon, or vegan sausage as part of a vegan brunch. You can also serve it with vegan pancakes, vegan crepes, vegan banana bread, and coffee or juice.\nKeep the leftovers in an airtight container in the fridge for up to 1 week. You can also prepare the tofu before cooking and freeze it for up to 5 months. ",
+      "cookingTime": "15 minutes",
+      "id": "BvjaqVo"
+    },
+    {
+      "title": "Vegan Tomato Soup",
+      "ingredients": [
+        "2 tbsp extra-virgin olive oil",
+        "2 cloves garlic",
+        "1 onion",
+        "2 tbsp all-purpose flour",
+        "1 28-ounce can crushed tomatoes",
+        "1 cup vegetable stock",
+        "1/2 cup coconut milk",
+        "2 tbsp tomato paste",
+        "1/2 tsp baking soda",
+        "1/2 tsp salt",
+        "1 tsp black pepper"
+      ],
+      "method": "Heat the oil in a large pot and cook the garlic and onion over medium-high heat until golden brown, stirring occasionally. \nAdd the flour and whisk well until it’s cooked for about 1 to 2 minutes and fully incorporated.\nSlowly pour in the stock while whisking.\n\nAdd all the remaining ingredients, stir, and bring to a boil. Then simmer for 15 to 20 minutes.\nBlend the vegan tomato soup with an immersion or a regular blender and serve immediately. I served my vegan soup with some toasted bread slices and chopped fresh parsley but you can also serve it with some fried tofu or a vegan grilled cheese sandwich.\nKeep the leftovers in an airtight container in the fridge for 5-7 days.",
+      "cookingTime": "25 minutes",
+      "id": "xdmapmB"
+    }
+  ]
+}
